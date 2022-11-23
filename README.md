@@ -1,4 +1,4 @@
-# photo-search
+# Search any Photo
 
 Developed this app mainly to dig into API's with React.
 <br/>
