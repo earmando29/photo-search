@@ -1,12 +1,12 @@
 
+import Count  from "./Count";
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
-    </div>
-  );
+	return (
+		<div>
+			<Count/>
+		</div>
+	);
 }
 
 export default App;
